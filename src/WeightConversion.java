@@ -1,5 +1,3 @@
-package logic;
-
 public class WeightConversion {
 
 	public double KilosToPounds (double kilos){
